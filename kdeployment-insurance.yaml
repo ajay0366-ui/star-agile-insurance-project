@@ -32,6 +32,6 @@ spec:
 
   type: NodePort
   ports:
-  - nodePort: 31099       # Node_port
+  - nodePort: 31099       # Node_port_service
     port: 8081
     targetPort: 8081
