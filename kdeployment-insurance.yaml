@@ -19,6 +19,7 @@ spec:
         image: ajaynew2025/insurance-app
         ports:
         - containerPort: 8081
+# service running
 ---
 apiVersion: v1
 kind: Service
